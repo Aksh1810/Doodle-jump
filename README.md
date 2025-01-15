@@ -9,3 +9,6 @@ A simple implementation of the Doodle Jump game using SFML (Simple and Fast Mult
 - **Platforms**: Platforms move vertically as the player ascends.
 - **Score**: The score increases as the player ascends.
 - **Game Over**: The game ends if the player falls off the screen.
+- **Restart**: The game restarts after game over.
+- **Collision Detection**: The game detects collisions between the player and platforms.
+- **High Score**: The game keeps track of the highest score achieved.
