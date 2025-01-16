@@ -56,7 +56,7 @@ int main() {
     textGameOver.setCharacterSize(48);
     textGameOver.setFillColor(sf::Color::Red);
     textGameOver.setString("GAME OVER !!");
-    textGameOver.setPosition(70, 230);
+    textGameOver.setPosition(55, 230);
 
     while (app.isOpen()) {
         sf::Event e;
