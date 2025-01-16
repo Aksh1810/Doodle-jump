@@ -55,7 +55,7 @@ int main() {
     textGameOver.setFont(font);
     textGameOver.setCharacterSize(48);
     textGameOver.setFillColor(sf::Color::Red);
-    textGameOver.setString("GAME OVER");
+    textGameOver.setString("GAME OVER !!");
     textGameOver.setPosition(70, 230);
 
     while (app.isOpen()) {
