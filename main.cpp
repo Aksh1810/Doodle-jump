@@ -15,7 +15,7 @@ int main() {
     const int windowHeight = 533;
     int platformCount = 10;
 
-    sf::RenderWindow app(sf::VideoMode(windowWidth, windowHeight), "Doodle Game with Score!");
+    sf::RenderWindow app(sf::VideoMode(windowWidth, windowHeight), "Doodle Game !");
     app.setFramerateLimit(60);
 
     sf::Texture t1, t2, t3, restartTexture, closeTexture;
